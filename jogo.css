@@ -1,0 +1,24 @@
+.bt {
+
+    background-color: #9badff;
+    display:inline-block;
+    cursor:pointer;
+    font-family:Verdana;
+    font-weight:bold;
+    font-size:50px;
+    padding:6px 10px;
+    text-decoration:none;
+    position:absolute;
+    position:absolute;
+    top:80%;
+    left:50%;
+    -webkit-transform:translate3d(-50%, -50%, 0);
+    -moz-transform:translate3d(-50%, -50%, 0);
+    transform:translate3d(-50%, -50%, 0);
+    align-items: center;
+    }
+
+.foto {
+    max-width: 100%;
+}
+
